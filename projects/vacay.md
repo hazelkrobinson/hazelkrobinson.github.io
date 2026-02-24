@@ -15,13 +15,11 @@ summary: "The primary objective of this project is to quantify and visually asse
 
 <img class="img-fluid" src="../img/vacay/RemoteSensingPoster.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This project allowed me to understand the relevance and importance of the temporal scale of a project. Given the short timeline of this project and the connection to inclement weather, I had to employ cloud-masking and be thoughtful when selecting input data to retrieve most accurate data. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+In this project I gained experience moving project data between platforms (TerrSet and Arc GIS) in order to access the optimal tools for analysis (found in TerrSet for satellite imagery) and optimal tools for visualisation (ArcGIS for map-making). 
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
+Here is the methodoloical flow chart outlining the steps undertaken to complete this project:
 
 <img class="img-fluid" src="../img/vacay/RemotesensingFlowchart.png">
  
