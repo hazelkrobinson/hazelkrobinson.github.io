@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/vacay/vegetationchangepic1.png
 title: "Vegetation damage assessment using satellite imagery"
 date: 2025
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "The primary objective of this project is to quantify and visually assess the vegetation loss incurred by Pisgah National Forest following Hurricane Helene. The study employs Sentinel-2 satellite imagery and spectral indices– NDVI (Normalized Difference Vegetation Index) and NDII (Normalized Difference Infrared Index)– to detect vegetation health before and after the event."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/vacay/RemoteSensingPoster.png">
 
 Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
 
