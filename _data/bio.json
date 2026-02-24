@@ -4,28 +4,28 @@
     "label": "M2 Student",
     "picture": "https://github.com/kambergjohnson.png",
     "email": "hazykayro@gmail.com",
-    "phone": "+1(404)922-7544 / +33",
+    "phone": "+1 (404) 922-7544 / +33 07 49 39 94 06",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { "address": "", "postalCode": "35000", "city": "Rennes", "countryCode": "France", "region": "" },
     "profiles": [
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
+      { "network": "linkedin", "username": "hazelrobinson", "url": "www.linkedin.com/in/hazel-robinson-b785751b6" },
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "GIS" },
+    { "name": "Remote Sensing" },
+    { "name": "Health Analytics" },
+    { "name": "Spatial Statistics" },
+    { "name": "Environmental Health" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "QGIS", "ArcGIS Pro", "Python", "TerrSet", "R", "STATA" ]
+      "name": "Programming Languages",
+      "keywords": [ "Python (arcpy, numpy, folium)", "R (mapsf)", "SQL", "C++", "HTML/JS/CSS" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "GIS & Statistical Software",
+      "keywords": [ "ArcGIS", "QGIS", "TerrSet", "STATA", "SPSS" ]
     }
   ],
   "education": [
