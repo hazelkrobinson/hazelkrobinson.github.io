@@ -10,7 +10,7 @@ labels:
   - Spectral indices
   - TerrSet
   - ArcGIS pro
-summary: "The primary objective of this project is to quantify and visually assess the vegetation loss incurred by Pisgah National Forest following Hurricane Helene. The study employs Sentinel-2 satellite imagery and spectral indices– NDVI (Normalized Difference Vegetation Index) and NDII (Normalized Difference Infrared Index)– to detect vegetation health before and after the event."
+summary: "The primary objective of this project is to quantify and visually assess the vegetation loss incurred by Pisgah National Forest following Hurricane Helene. The study employs Sentinel-2 satellite imagery and spectral indices, NDVI (Normalized Difference Vegetation Index) and NDII (Normalized Difference Infrared Index), to detect vegetation health before and after the event."
 ---
 
 <img class="img-fluid" src="../img/vacay/RemoteSensingPoster.png">
