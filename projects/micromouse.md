@@ -9,7 +9,11 @@ labels:
   - Robotics
   - Arduino
   - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+summary: "My project seeks to answer the following questions:
+➔ Which counties in Georgia are most vulnerable to high opioid mortality rates?
+➔ Do high risk counties have access to affordable naloxone, and which counties are in most need of
+additional free naloxone distribution boxes? Opioid overdose death vulnerability rankings can be developed for counties by assessing socioeconomic and opioid-related indicators with opioid overdose mortality outcomes using a regression model approach (Sawyer et al., 2021, Van Handel et al., 2016).
+"
 ---
 
 <div class="text-center p-4">
