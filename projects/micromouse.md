@@ -16,7 +16,7 @@ additional free naloxone distribution boxes?"
 ---
 
 <div class="text-center p-4">
-
+<img class="img-fluid" src="../img/micromouse/463poster.png">
 </div>
 
 Opioid overdose death vulnerability rankings can be developed for counties by assessing socioeconomic and opioid-related indicators with opioid overdose mortality outcomes using a regression model approach (Sawyer et al., 2021, Van Handel et al., 2016).
