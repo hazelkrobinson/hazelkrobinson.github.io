@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/micromouse/riskmapcover.png
 title: "Micromouse"
 date: 2015
 published: true
