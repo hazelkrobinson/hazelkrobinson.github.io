@@ -6,9 +6,9 @@ title: "Risk analysis of opioid overdose"
 date: 2024
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
+  - Arc GIS Pro
+  - Data visualisation
+  - Public health GIS
 summary: "My project seeks to answer the following questions:<br>
 ➔ Which counties in Georgia are most vulnerable to high opioid mortality rates?<br>
 ➔ Do high risk counties have access to affordable naloxone, and which counties are in most need of
@@ -16,9 +16,7 @@ additional free naloxone distribution boxes?"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+
 </div>
 
 Opioid overdose death vulnerability rankings can be developed for counties by assessing socioeconomic and opioid-related indicators with opioid overdose mortality outcomes using a regression model approach (Sawyer et al., 2021, Van Handel et al., 2016).
