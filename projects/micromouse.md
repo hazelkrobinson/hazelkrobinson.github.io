@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: img/micromouse/riskmapcover.png
-title: "Micromouse"
-date: 2015
+title: "Risk Analysis of Opioid Overdose"
+date: 2024
 published: true
 labels:
   - Robotics
