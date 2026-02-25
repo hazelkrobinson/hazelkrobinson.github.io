@@ -23,4 +23,3 @@ Opioid overdose death vulnerability rankings can be developed for counties by as
 
 <img class="img-fluid" src="../img/micromouse/463Flowchart.png">
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
