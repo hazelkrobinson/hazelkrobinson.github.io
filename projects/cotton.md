@@ -2,15 +2,14 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Multi-criteria decision analysis: identifying areas for residential development"
+title: "Census data integration & Public health mapping"
 date: 2024
 published: true
 labels:
-  - TerrSet
-  - Map Algebra
-  - Fuzzy standardisation
   - Arc GIS Pro
-summary: "A text adventure game that I developed for ICS 313."
+  - ArcPy
+  - Queries
+summary: "This project analyzed socio-demographic vulnerability factors across Montréal boroughs using 2016 Census data and COVID-19 case records."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
