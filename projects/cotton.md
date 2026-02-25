@@ -2,12 +2,14 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "Multi-criteria decision analysis: identifying areas for residential development"
+date: 2024
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - TerrSet
+  - Map Algebra
+  - Fuzzy standardisation
+  - Arc GIS Pro
 summary: "A text adventure game that I developed for ICS 313."
 ---
 
