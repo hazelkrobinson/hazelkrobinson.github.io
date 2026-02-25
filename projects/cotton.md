@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/covidmap.png
 title: "Census data integration & Public health mapping"
 date: 2024
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "This project analyzed socio-demographic vulnerability factors across Montréal boroughs using 2016 Census data and COVID-19 case records."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/cotton/covidmap.png">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
