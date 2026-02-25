@@ -22,5 +22,4 @@ In this project I gained experience moving project data between platforms (TerrS
 Here is the methodoloical flow chart outlining the steps undertaken to complete this project:
 
 <img class="img-fluid" src="../img/vacay/RemotesensingFlowchart.png">
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+
