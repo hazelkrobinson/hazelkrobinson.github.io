@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/micromouse/riskmapcover.png
-title: "Risk Analysis of Opioid Overdose"
+title: "Risk analysis of opioid overdose"
 date: 2024
 published: true
 labels:
