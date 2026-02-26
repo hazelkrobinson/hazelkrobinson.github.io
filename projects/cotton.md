@@ -17,6 +17,7 @@ Vulnerability indicators were derived at the borough level and included: percent
 Census tract-level data were spatially aggregated to borough boundaries using point-based spatial joins to avoid errors in polygon alignment. 
 
 <img class="img-fluid" src="../img/cotton/covidmap.png">
+<img class="img-fluid" src="../img/cotton/covidmap2.png">
 
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
